@@ -1,6 +1,8 @@
 pop-buffer
 ==========
 
+Implements POP Buffers, as described [here](x3dom.org/pop/files/popbuffer2013.pdf).
+
 Install
 -------
 

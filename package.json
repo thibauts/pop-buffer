@@ -1,0 +1,25 @@
+{
+  "name": "pop-buffer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "demo": "wzrd demo.js"
+  },
+  "author": "thibauts",
+  "license": "MIT",
+  "dependencies": {
+    "quantize-vertices": "^1.0.2",
+    "rescale-vertices": "^1.0.0",
+    "vertices-bounding-box": "^1.0.0"
+  },
+  "devDependencies": {
+    "bunny": "^1.0.1",
+    "gl-geometry": "^1.0.3",
+    "gl-matrix": "^2.1.0",
+    "gl-now": "^1.4.0",
+    "gl-shader": "^4.0.0",
+    "normals": "^1.0.1"
+  }
+}

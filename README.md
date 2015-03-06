@@ -2,7 +2,7 @@ pop-buffer
 ==========
 ### Progressive encoding for 3D meshes
 
-Implements POP Buffers, as described [here](x3dom.org/pop/files/popbuffer2013.pdf).
+Implements POP Buffers, as described [here](http://x3dom.org/pop/files/popbuffer2013.pdf).
 
 Install
 -------

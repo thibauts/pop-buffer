@@ -1,6 +1,6 @@
 {
   "name": "pop-buffer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Progressive encoding for 3D meshes",
   "main": "index.js",
   "scripts": {

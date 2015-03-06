@@ -1,7 +1,7 @@
 {
   "name": "pop-buffer",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Progressive encoding for 3D meshes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,6 +9,10 @@
   },
   "author": "thibauts",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thibauts/pop-buffer.git"
+  },  
   "dependencies": {
     "quantize-vertices": "^1.0.2",
     "rescale-vertices": "^1.0.0",
@@ -21,5 +25,14 @@
     "gl-now": "^1.4.0",
     "gl-shader": "^4.0.0",
     "normals": "^1.0.1"
-  }
+  },
+  "keywords": [
+    "pop",
+    "buffer",
+    "progressive",
+    "encoding",
+    "mesh",
+    "meshes",
+    "lod"
+  ]
 }
